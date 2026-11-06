@@ -1,0 +1,7 @@
+{
+  "initial_wet_mass_kg": 30,
+  "drag_area_m2": 0.12,
+  "drag_coefficient": 2.2,
+  "thrust_n": 0.015,
+  "isp_s": 67
+}

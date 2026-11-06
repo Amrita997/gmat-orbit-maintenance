@@ -93,4 +93,3 @@ python render_video.py runs/video/telemetry.txt runs/orbit-maintenance.mp4
 ```
 
 The video shows Earth-centered inertial motion, mean altitude, mean eccentricity and actual commanded thrust, with an enlarged spacecraft marker. The 3D Earth is a spherical visual reference. Native GUI XY altitude is geodetic; the replay uses mean altitude to show controller tracking clearly.
-
